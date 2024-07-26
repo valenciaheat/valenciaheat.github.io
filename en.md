@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to Valencia Heat
 
-[Spanish version](./)
+[Versión en Español](./)
 
 We are a group of people that organize basketball games in Valencia.
 
