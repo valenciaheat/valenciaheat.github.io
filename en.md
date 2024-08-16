@@ -55,17 +55,17 @@ To join our Telegram group, see places where to play in the city and more [click
 <a id="how-long"></a>
 - **For how long do we play?**
   
-  We usually play for 60 minutes, 90 minutes or 120 minutes.
+  We usually play for 90 minutes.
 
 <a id="how-many"></a>
 - **What is the player limit?**
 
-  Usually, up to 15 players. However, depending on the court and hours booked, it could be more.
+  Usually, up to 18 players (three teams of five and one sub each) but this can change if we booked a second court.
 
 <a id="how-much"></a>
 - **How much does it cost?**
 
-  When we reserve at Polideportivo Benimaclet (_indoor court - pay to use_) the price ranges from €3 to €4, depending on the amount of time we book and the number of players.
+  When we reserve at Polideportivo Benimaclet (_indoor court - pay to use_) price starts at €4, depending on the amount of time we book and the number of players.
   
   You will have to give the playing fee to the organizer (cash preferred). Don´t bring big notes, we are not a bank.
   
@@ -74,14 +74,16 @@ To join our Telegram group, see places where to play in the city and more [click
 <a id="how-to"></a>
 - **How do I sign up to play?**
 
-  In our [Telegram group](https://linktr.ee/valenciaheat) when we organize a new game, each member joins individually by sending a message showing the intention to play. Then, we make a list of players (usually 20 players max), if there is free spot, put your name on the list. Then head to indicated place when the time comes.
+  In our [Telegram group](https://linktr.ee/valenciaheat) whenever we organize a new game, each member joins individually by sending a simple message showing intention to play. Then, we make a list of players and a waiting list, if there is a free spot, put your name on the list. Finally head to the indicated place when the time comes.
 
   This list is mostly to know who and how many of us will be going, so that we can also book the place for more or less time according to the amount of attendees.
+
+  Have a look at the chat history to see how we do it.
 
 <a id="bring"></a>
 - **What should I bring?**
 
-  If you have any, you could bring a ball, an air pump, water and cash to pay forthe reservation (if applicable).
+  If you have any, you could bring a ball, an air pump, water and cash to pay for the reservation (if applicable).
 
 <a id="can-i"></a>
 - **Can I organize a game?**
