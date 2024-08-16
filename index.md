@@ -56,18 +56,18 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 <a id="how-long"></a>
 - **¿Cuánto tiempo jugamos?**
   
-  Solemos jugar 60 minutos, 90 minutos ó 120 minutos.
+  Solemos jugar 90 minutos.
 
 <a id="how-many"></a>
 - **¿Cuál es el límite de jugadores?**
 
-  Usualmente, hasta 15 jugadores. Pero según la cancha y el tiempo reservado puede ser más.
+  Usualmente, hasta 18 jugadores (tres equipos de cinco jugadores con una sustitución) pero el máximo de jugadores varía según reservemos una o dos canchas.
   
 
 <a id="how-much"></a>
 - **¿Cuánto cuesta?**
 
-  Cuando reservamos en el Polideportivo Benimaclet (_bajo techo - de pago_) el precio varía entre €3 a €4, según la cantidad de tiempo que reservemos y la cantidad de jugadores. 
+  Cuando reservamos en el Polideportivo Benimaclet (_bajo techo - de pago_) el precio va desde €4, según la cantidad de tiempo que reservemos y la cantidad de jugadores. 
   
   Se debe pagar al organizador de la quedada en efectivo preferentemente, no traigas billetes grandes, no somos un banco.
   
@@ -76,9 +76,11 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 <a id="how-to"></a>
 - **¿Cómo me apunto?**
 
-  En el [grupo de Telegram](https://linktr.ee/valenciaheat) cuando organizamos un juego cada miembro se apunta individualmente enviando un mensaje mostrando la intención de participar. Luego hacemos una lista de jugadores (usualmente máximo 20), si hay lugar te apuntas y vas a la hora y lugar indicados.
+  En el [grupo de Telegram](https://linktr.ee/valenciaheat) cuando organizamos un juego cada miembro se apunta individualmente enviando un simple mensaje mostrando la intención de participar. Luego hacemos una lista de jugadores y una lista de espera, si hay lugar te apuntas y vas a la hora y lugar indicados.
 
   Esta lista es para saber quiénes y cuántos somos, así también podemos reservar más o menos tiempo según cuántos vayamos a jugar!
+
+  Puedes ver el historial del grupo para ver cómo lo hacemos.
 
 <a id="bring"></a>
 - **¿Qué debo llevar?**
