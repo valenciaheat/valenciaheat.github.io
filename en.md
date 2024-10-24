@@ -25,8 +25,8 @@ We are a group of people that organize basketball games in Valencia.
   - [What should I bring?](#bring)
   - [Can I organize a game?](#can-i)
   - [What if I signed up for a game but cannot attend anymore?](#no-show)
-  - [Polideportivo Benimaclet - how far in advance can I reserve?](#pol-ben-booking)
-- [Group´s rules ](#rules)
+  - [Polideportivos Municipales - how far in advance can I reserve?](#pol-mun-booking)
+- [Group's rules ](#rules)
 
 
 <!-- headings -->
@@ -41,7 +41,7 @@ To join our Telegram group, see places where to play in the city and more [click
 <a id="where"></a>
 - **Where do we play?**
 
-  We usually meet at Polideportivo Benimaclet (_indoor court - pay to use_). 
+  We usually meet at indoor courts (_pay to use_) like Polideportivo Benimaclet, Pabellón Municipal Benicalap or any other venue that's available.
   
   However, sometimes we meet in free public outdoor courts in different parts of the city.
 
@@ -65,9 +65,9 @@ To join our Telegram group, see places where to play in the city and more [click
 <a id="how-much"></a>
 - **How much does it cost?**
 
-  When we reserve at Polideportivo Benimaclet (_indoor court - pay to use_) price starts at €4, depending on the amount of time we book and the number of players.
+  When we reserve at indoor courts (_pay to use_) price starts at €4, depending on each venue and the amount of time booked.
   
-  You will have to give the playing fee to the organizer (cash preferred). Don´t bring big notes, we are not a bank.
+  You will have to give the playing fee to the organizer - Bizum preferred. If you pay cash, don't bring big notes, we are not a bank.
   
   When we play in _free public courts_, then there is no cost (it's free!)
 
@@ -97,17 +97,19 @@ To join our Telegram group, see places where to play in the city and more [click
 
   When the game has a payment fee (usually on indoor courts), if you don't remove your name from the list and you don't show up to play, you will receive a warning. If you receive three no-show warnings, you will be banned from the group.
 
-<a id="pol-ben-booking"></a>
-- **Polideportivo Benimaclet - how far in advance can I reserve?**
+<a id="pol-mun-booking"></a>
+- **Polideportivos municipales - how far in advance can I reserve?**
 
   Earliest is Tuesdays morning. 
   
-  On Tuesdays you can call Polideportivo Benimaclet and check the availability for the week. The reservation must be made in person at the reception.
+  On Tuesdays you can call the polideportivo (Benimaclet, Benicalap, etc) and check the availability for the week. The reservation must be made in person at the reception.
 
-  Federated teams and schools that use the place have priority of usage. Monday nights these institutions reserve the time slots for them. Whatever is left, would be available for us.
+  Federated clubs and schools that use the place have priority of usage. Monday nights these institutions reserve the time slots for them. Whatever is left, would be available for us.
 
 <a id="rules"></a>
-## Group´s rules 
+## Group's rules 
+
+By joining the group you accept the rules.
 
 1. The use of any type of violence, especially but not only verbal and physical, towards people is totally forbidden, even if the one you are referring to is not within the group.
 

@@ -26,7 +26,7 @@ Somos un grupo de personas que organizamos quedadas para jugar baloncesto en Val
   - [¿Qué debo llevar?](#bring)
   - [¿Puedo organizar un partido?](#can-i)
   - [¿Qué pasa si me apunto pero no puedo ir?](#no-show)
-  - [Polideportivo Benimaclet - ¿con cuánta antelación puedo reservar?](#pol-ben-booking)
+  - [Polideportivos municipales - ¿con cuánta antelación puedo reservar?](#pol-mun-booking)
 - [Normas del grupo](#rules)
 
 
@@ -42,7 +42,7 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 <a id="where"></a>
 - **¿Dónde jugamos?**
 
-  Usualmente nos juntamos en el Polideportivo Benimaclet (_bajo techo - de pago_). 
+  Usualmente nos juntamos en canchas bajo techo (_de pago_) como el Polideportivo Benimaclet, el Pabellón Municipal Benicalap o alguna otra cancha que tenga disponibilidad. 
   
   Sin embargo, a veces nos juntamos en canchas públicas gratuitas en distintos puntos de la ciudad.
 
@@ -67,16 +67,18 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 <a id="how-much"></a>
 - **¿Cuánto cuesta?**
 
-  Cuando reservamos en el Polideportivo Benimaclet (_bajo techo - de pago_) el precio va desde €4, según la cantidad de tiempo que reservemos y la cantidad de jugadores. 
+  Cuando reservamos en canchas _bajo techo y de pago_ el precio va desde €4, según cada cancha y la cantidad de tiempo reservada.
   
-  Se debe pagar al organizador de la quedada en efectivo preferentemente, no traigas billetes grandes, no somos un banco.
+  Se debe pagar al organizador de la quedada con Bizum preferentemente. En caso de hacerlo en efectivo no traigas billetes grandes, no somos un banco.
   
   Cuando jugamos en lugares públicos gratuitos no tiene costo.
 
 <a id="how-to"></a>
 - **¿Cómo me apunto?**
 
-  En el [grupo de Telegram](https://linktr.ee/valenciaheat) cuando organizamos un juego cada miembro se apunta individualmente enviando un simple mensaje mostrando la intención de participar. Luego hacemos una lista de jugadores y una lista de espera, si hay lugar te apuntas y vas a la hora y lugar indicados.
+  En el [grupo de Telegram](https://linktr.ee/valenciaheat) cuando organizamos un partido solemos poner los datos del mismo en un mensaje que queda fijo con un pin en el grupo.
+
+  Luego cada miembro se apunta individualmente enviando un simple mensaje mostrando la intención de participar. Luego hacemos una lista de jugadores y una lista de espera, si hay lugar te apuntas y vas a la hora y lugar indicados.
 
   Esta lista es para saber quiénes y cuántos somos, así también podemos reservar más o menos tiempo según cuántos vayamos a jugar!
 
@@ -100,17 +102,19 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
   Cuando es un partido donde debes pagar por la reserva (usualmente en canchas techadas), si no quitas tu nombre de la lista y no vas el día del partido, recibirás una advertencia. Si recibes tres advertencias por no aparecer, serás eliminado del grupo.
 
 
-<a id="pol-ben-booking"></a>
-- **Polideportivo Benimaclet - ¿con cuánta antelación puedo reservar?**
+<a id="pol-mun-booking"></a>
+- **Polideportivos municipales - ¿con cuánta antelación puedo reservar?**
 
   Los Martes es el primer día de la semana que se puede reservar.
 
-  A partir de cada Martes por la mañana se puede llamar al Polideportivo Benimaclet y consultar la disponibilidad para esa semana. La reserva se hace presencialmente.
+  A partir de cada Martes por la mañana se puede llamar al polideportivo (Benimaclet, Benicalap, etc) y consultar la disponibilidad para esa semana. La reserva se hace presencialmente.
 
-  Los equipos federados y escuelas que utilizan el lugar tienen prioridad de uso. Los Lunes por la noche estas instituciones reservan los horarios para ellos, lo que quede libre es lo que podríamos reservar.
+  Los clubes federados y escuelas que utilizan el lugar tienen prioridad de uso. Los Lunes por la noche estas instituciones reservan los horarios para ellos, lo que quede libre es lo que podríamos reservar.
 
 <a id="rules"></a>
 ## Normas del grupo
+
+Al unirte al grupo aceptas las normas del mismo.
 
 1. El uso de cualquier tipo de violencia, especialmente pero no únicamente la verbal y la física, hacia personas está totalmente prohibida, incluso si a quien te refieres no está dentro del grupo.
 
