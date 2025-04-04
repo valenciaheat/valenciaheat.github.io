@@ -11,7 +11,7 @@ Somos un grupo de personas que organizamos quedadas para jugar baloncesto en Val
 - Todos los niveles son bienvenidos. 
 - No importa si eres local o extranjero.
 - Nos comunicamos en Español e Inglés.
-- Somos una organización sin fines de lucro.
+- Sólo somos un grupo que se junta a jugar baloncesto.
 
 
 **Contenido:**
@@ -58,6 +58,9 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
   
   Solemos jugar 90 minutos.
 
+  - Cada partido se juega a 11 puntos ó 7 minutos, lo que ocurra primero.
+  - El equipo que gana, continúa jugando. Sin embargo, cada equipo juega un máximo de 2 partidos seguidos y luego descansa.
+
 <a id="how-many"></a>
 - **¿Cuál es el límite de jugadores?**
 
@@ -78,9 +81,11 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 
   En el [grupo de Telegram](https://linktr.ee/valenciaheat) cuando organizamos un partido solemos poner los datos del mismo en un mensaje que queda fijo con un pin en el grupo.
 
-  Luego cada miembro se apunta individualmente enviando un simple mensaje mostrando la intención de participar. Luego hacemos una lista de jugadores y una lista de espera, si hay lugar te apuntas y vas a la hora y lugar indicados.
+  Luego cada miembro se apunta individualmente enviando un simple mensaje mostrando la intención de participar. Luego hacemos una lista numerada de jugadores y una lista de espera, si hay lugar te apuntas y vas a la hora y lugar indicados.
 
   Esta lista es para saber quiénes y cuántos somos, así también podemos reservar más o menos tiempo según cuántos vayamos a jugar!
+
+  Una vez que la lista numerada se publica por primera vez, queda en ti poner tu nombre en la lista. Copia la lista, pon tu nombre donde corresponda y envíala nuevamente al chat.
 
   Puedes ver el historial del grupo para ver cómo lo hacemos.
 
