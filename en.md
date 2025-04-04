@@ -11,7 +11,7 @@ We are a group of people that organize basketball games in Valencia.
 - All skill levels welcome.
 - It doesn't matter if you are local or foreign.
 - We communicate in Spanish and English.
-- We are non-profit organization.
+- We are just a bunch of guys that gets together to play basketball.
 
 **Table of content:**
 - [More information](#more-info)
@@ -57,6 +57,9 @@ To join our Telegram group, see places where to play in the city and more [click
   
   We usually play for 90 minutes.
 
+  - Each game is played to 11 points or 7 minutes, whichever comes first.
+  - The winning team continues playing. However, each team plays a maximum of 2 consecutive games and then rests.
+
 <a id="how-many"></a>
 - **What is the player limit?**
 
@@ -74,9 +77,11 @@ To join our Telegram group, see places where to play in the city and more [click
 <a id="how-to"></a>
 - **How do I sign up to play?**
 
-  In our [Telegram group](https://linktr.ee/valenciaheat) whenever we organize a new game, each member joins individually by sending a simple message showing intention to play. Then, we make a list of players and a waiting list, if there is a free spot, put your name on the list. Finally head to the indicated place when the time comes.
+  In our [Telegram group](https://linktr.ee/valenciaheat) whenever we organize a new game, each member joins individually by sending a simple message showing intention to play. Then, we make a numbered list of players and a waiting list, if there is a free spot, put your name on the list. Finally head to the indicated place when the time comes.
 
   This list is mostly to know who and how many of us will be going, so that we can also book the place for more or less time according to the amount of attendees.
+
+  Once the numbered list is published for the first time, it's up to you to put your name on it. Please, copy the list, add your name where applicable and send it back to the group chat.
 
   Have a look at the chat history to see how we do it.
 
